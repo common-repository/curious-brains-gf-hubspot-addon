@@ -1,0 +1,139 @@
+.gform-settings-input__container{
+   color:blue;
+
+}
+.gform-settings-input__container{
+   color:blue;
+
+}
+span.a{
+       display: grid;
+    grid-template-columns: 0.2fr 0.2fr;
+}
+ #input_hub{
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+  } 
+  #acc_test{
+margin-left: 1.1rem;
+  }
+  #synhub{
+background: #ff471a;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    font-family: inherit;
+    font-size: .875rem;
+    font-weight: 500;
+    height: auto;
+    line-height: 0.5rem;
+    margin-left: 0;
+    margin-top: 1.5rem;
+    padding: 0.8rem 1.125rem;
+  }
+  .text1 {
+    max-width: 100%;
+    width: 100%;
+}
+#co_button{
+    margin-left: -0.5rem;
+}
+
+    .hubspot_account1{
+        background: #ff471a;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    font-family: inherit;
+    font-size: .875rem;
+    font-weight: 500;
+    height: auto;
+    line-height: 1;
+    margin-left: 0.5rem;
+    padding: 0.625rem 1.125rem;
+    margin-bottom: 1.5rem;
+  } 
+  .a{
+    margin-top: 0.1rem;
+  }  
+  .hubspot_account{
+        background: #ff471a;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: white;
+    font-family: inherit;
+    font-size: .875rem;
+    font-weight: 500;
+    height: auto;
+    line-height: 1;
+    margin-left: 0;
+    padding: 0.625rem 1.125rem;
+    margin-top: 1rem;
+  }    
+.gform_think_title {
+    padding-top: 2.875rem;
+}
+.think_gform {
+    background: #fff;
+    border: 1px solid #e3e6ef;
+    border-radius: 3px;
+    box-shadow: 0 1px 4px rgba(18,25,97,.078);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    grid-column: span 2;
+    position: relative;
+}
+fieldset {display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+}
+.gform_think_header {
+    box-sizing: border-box;
+    display: block;
+    font-size: .875rem;
+    line-height: 2.875rem;
+    padding-left: 1.0625rem;
+    position: absolute;
+    top:0;
+    
+    width: 100%;
+}
+.gform_panel_title {
+    flex-grow: 1;
+    font-weight: 500;
+    margin: 0;
+
+}
+legend {
+    display: block;
+    padding-inline-start: 2px;
+    padding-inline-end: 2px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+}
+.gform_think_content1{
+    padding: 1rem 1rem 1rem;
+}
+.think_gform,.gform_think_content {
+   border-top: 1px solid #ebebf2;
+    padding: 0.5rem 1rem 1rem;
+}
+ .think_gform {
+    background: #fff;
+    border: 1px solid #e3e6ef;
+    border-radius: 3px;
+    box-shadow: 0 1px 4px rgba(18,25,97,.078);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    grid-column: span 2;
+    position: relative;
+}       
